@@ -34,12 +34,6 @@ A retro-style Snake Game built with **Python** and **Tkinter**, inspired by the 
 
 ---
 
-## 📸 Preview
-
-
-
----
-
 ## 👩‍💻 Author
 
 **Vasudha Saxena**
