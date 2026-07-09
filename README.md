@@ -53,9 +53,13 @@ JSON — for saving/loading the high score
 
 ## 📌 **Future Improvements**
  Add a settings screen (speed presets, color themes)
+ 
  Add cross-platform sound support (currently uses winsound, Windows only)
+ 
  Add a numbered arrow-key-navigable main menu for extra retro feel
+ 
  Add difficulty levels / obstacle modes
+ 
 
  ---
  
