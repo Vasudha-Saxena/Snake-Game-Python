@@ -41,14 +41,17 @@ JSON — for saving/loading the high score
 
 ---
 
-🖥️ Screenshots
+## 🖥️ Screenshots
 
-<!-- Add your screenshots here after uploading them to the repo, e.g.: -->
-<!-- ![Cover Screen](screenshots/cover.png) -->
-<!-- ![Gameplay](screenshots/gameplay.png) -->
+### 🏠 Home Screen
+![Cover Screen](screenshots/cover_screen.png)
 
+### 🎮 Gameplay
+![Gameplay](screenshots/game_screen.png)
 
-##📌 **Future Improvements**
+---
+
+## 📌 **Future Improvements**
  Add a settings screen (speed presets, color themes)
  Add cross-platform sound support (currently uses winsound, Windows only)
  Add a numbered arrow-key-navigable main menu for extra retro feel
