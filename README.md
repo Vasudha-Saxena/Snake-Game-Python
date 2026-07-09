@@ -18,16 +18,24 @@ A retro-style Snake Game built with **Python** and **Tkinter**, inspired by the 
 
 ## 🛠️ Built With:
 Python — core game logic
+
 Tkinter — GUI and canvas-based rendering
+
 JSON — for saving/loading the high score
+
 
 ---
 
 📁 **Project Structure**
+
 .
+
 ├── snake_game.py     # Main game source code
+
 ├── highscore.json    # Auto-generated file storing your high score (created on first run)
+
 └── README.md
+
 
 ---
 
